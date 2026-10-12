@@ -1,5 +1,5 @@
 Name:		python-google-auth-httplib2
-Version:	0.4.0
+Version:	0.4.4
 Release:	1
 Source0:	https://files.pythonhosted.org/packages/source/g/google_auth_httplib2/google_auth_httplib2-%{version}.tar.gz
 Summary:	Google Authentication Library: httplib2 transport
